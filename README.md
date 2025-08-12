@@ -31,13 +31,6 @@ The analysis helps the college administration make **data-driven decisions** to 
 
 ---
 
-## 🛠 Tools & Technologies
-- **Power BI** – Dashboard creation and interactive analysis  
-- **Excel / CSV** – Dataset storage and initial cleaning  
-- **DAX** – Calculated measures (average ratings, participation rate)  
-- **Power Query** – Data transformation and preprocessing  
-
----
 
 ## 📊 Dashboard Features
 - **Overall Event Ratings:** Average satisfaction per event.  
